@@ -1,6 +1,3 @@
-# Create a README.md content as a markdown string based on the formatted structure above
-
-readme_content = """
 # Consumer Goods Analytics – SQL Project
 
 ##  Overview
